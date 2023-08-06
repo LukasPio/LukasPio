@@ -21,7 +21,10 @@
 <div> 
 
   <span align="center">Contate-me!</span>
-  <a href = "mailto:lucaspio.galvao@gmail.com" align="center">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <ul>
+    <li>WhatsApp: +55 (11) 94546-2692</li>
+    <li>Gmail: lucaspio.galvao@gmail.com</li>
+    <li>Usuário do Discord: cacatua_404</li>
+  </ul>
 
 </div>
