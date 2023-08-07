@@ -1,12 +1,12 @@
 <h1>Opa, tudo certo? Eu sou o Lucas Pio</h1>
 
+<div>
+  <a href="https://github.com/lukasPio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesantana&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasPio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" style="height=400 width=300" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LukasPio&show_icons=true&theme=midnight-purple" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat" style="height=400 width=300" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LukasPio&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
-</a>
 
 
 
