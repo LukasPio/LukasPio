@@ -15,11 +15,26 @@
 <div style="display: flex"> 
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5
   </div>
+  <br>
+  <div style="display: flex"> 
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3
+  </div>
+  <br>
+    <div style="display: flex"> 
   <img align="center" alt="Lucas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
+  </div>
+  <br>
+      <div style="display: flex"> 
   <img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
+  </div>
+  <br>
+        <div style="display: flex"> 
   <img align="center" alt="Lucas-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
+  </div>
+  <br>
+          <div style="display: flex"> 
 <img align="center" alt="Lucas-NODE.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> PostgreSQL
+  </div>
 
 <img align="center" alt="Lucas-NODE.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></div>
 
