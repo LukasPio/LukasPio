@@ -33,10 +33,11 @@
   </div>
   <br>
           <div style="display: flex"> 
-<img align="center" alt="Lucas-NODE.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> PostgreSQL
+<img align="center" alt="Lucas-NODE.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js
   </div>
-
-<img align="center" alt="Lucas-NODE.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></div>
+<br>
+<div style="display: flex"> 
+<img align="center" alt="Lucas-NODE.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">PostgreSQL</div>
 
 ##
  
