@@ -28,10 +28,6 @@
   <img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
   </div>
   <br>
-        <div style="display: flex"> 
-  <img align="center" alt="Lucas-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
-  </div>
-  <br>
           <div style="display: flex"> 
 <img align="center" alt="Lucas-NODE.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js
   </div>
