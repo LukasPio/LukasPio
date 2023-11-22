@@ -37,7 +37,7 @@
 <div> 
 <br>
 <div style="display: flex"> 
-<img align="center" alt="Lucas-React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React.js</div> 
+<img align="center" alt="Lucas-React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">Spring Boot</div> 
 <div> 
 <br>
   <span align="center">Contate-me!</span>
