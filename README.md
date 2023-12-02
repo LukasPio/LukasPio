@@ -37,6 +37,10 @@
 <div> 
 <br>
 <div style="display: flex"> 
+<img align="center" alt="Lucas-NODE.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">MongoDB</div> 
+<div> 
+<br>
+<div style="display: flex"> 
 <img align="center" alt="Lucas-React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">Spring</div> 
 <div> 
 <br>
