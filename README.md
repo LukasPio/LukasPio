@@ -12,14 +12,6 @@
 
 <br>
   <h4 align="left">/Minhas Stacks/</h4>
-<div style="display: flex"> 
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5
-  </div>
-  <br>
-  <div style="display: flex"> 
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3
-  </div>
-  <br>
     <div style="display: flex"> 
   <img align="center" alt="Lucas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
   </div>
