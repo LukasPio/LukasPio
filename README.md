@@ -25,15 +25,18 @@
   </div>
 <br>
 <div style="display: flex"> 
-<img align="center" alt="Lucas-NODE.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">PostgreSQL</div> 
+<img align="center" alt="Lucas-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">PostgreSQL</div> 
 <div> 
 <br>
 <div style="display: flex"> 
-<img align="center" alt="Lucas-NODE.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">MongoDB</div> 
+<img align="center" alt="Lucas-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">MongoDB</div> 
 <div> 
 <br>
 <div style="display: flex"> 
-<img align="center" alt="Lucas-React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">Spring</div> 
+<img align="center" alt="Lucas-SPRING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">Spring</div> 
+<div> 
+<div style="display: flex"> 
+<img align="center" alt="Lucas-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</div> 
 <div> 
 <br>
   <span align="center">Contate-me!</span>
