@@ -12,9 +12,6 @@
 
 <br>
   <h4 align="left">/Minhas Stacks/</h4>
-    <div style="display: flex"> 
-  <img align="center" alt="Lucas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
-  </div>
   <br>
       <div style="display: flex"> 
   <img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
@@ -34,10 +31,6 @@
 <br>
 <div style="display: flex"> 
 <img align="center" alt="Lucas-SPRING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">Spring</div> 
-<div> 
-<br>
-<div style="display: flex"> 
-<img align="center" alt="Lucas-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</div> 
 <div> 
 <br>
   <span align="center">Contate-me!</span>
