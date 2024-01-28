@@ -17,13 +17,12 @@
   <img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
   </div>
   <br>
-          <div style="display: flex"> 
-<img align="center" alt="Lucas-NODE.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js
-  </div>
 <br>
 <div style="display: flex"> 
 <img align="center" alt="Lucas-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">PostgreSQL</div> 
-<div> 
+<div style="display: flex"> 
+<img align="center" alt="Lucas-SPRING-BOOT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">Spring Boot</div> 
+<div>  
 <br>
 <div style="display: flex"> 
 <img align="center" alt="Lucas-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">MySQL</div> 
@@ -33,9 +32,9 @@
 <img align="center" alt="Lucas-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">MongoDB</div> 
 <div> 
 <br>
-<div style="display: flex"> 
-<img align="center" alt="Lucas-SPRING-BOOT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">Spring Boot</div> 
-<div> 
+          <div style="display: flex"> 
+<img align="center" alt="Lucas-NODE.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js
+  </div>
 <br>
   <span align="center">Contate-me!</span>
   <ul>
