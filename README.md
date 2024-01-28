@@ -1,6 +1,6 @@
 <h1>Opa, tudo certo? Meu nome é Lucas</h1>
 <a href="https://github.com/lukasPio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasPio&layout=compact&langs_count=4&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasPio&layout=compact&langs_count=10&theme=midnight-purple"/>
    
   </a>
 <div>
