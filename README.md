@@ -17,16 +17,16 @@
   <img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
   </div>
   <br>
-<div style="display: flex"> 
-<img align="center" alt="Lucas-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">PostgreSQL</div> 
+  <div style="display: flex"> 
+<img align="center" alt="Lucas-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">MySQL</div> 
+<div> 
 <br>
 <div style="display: flex"> 
 <img align="center" alt="Lucas-SPRING-BOOT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">Spring Boot</div> 
 <div>  
 <br>
 <div style="display: flex"> 
-<img align="center" alt="Lucas-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">MySQL</div> 
-<div> 
+<img align="center" alt="Lucas-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">PostgreSQL</div> 
 <br>
 <div style="display: flex"> 
 <img align="center" alt="Lucas-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">MongoDB</div> 
