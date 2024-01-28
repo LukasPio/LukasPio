@@ -39,7 +39,7 @@
   <span align="center">Contate-me!</span>
   <ul>
     <li>WhatsApp: +55 (11) 94546-2692</li>
-    <li>Gmail: lucaspio.galvao@gmail.com</li>
+    <li>Gmail: piolucas311@gmail.com</li>
     <li>Usuário do Discord: cacatua_404</li>
   </ul>
 
