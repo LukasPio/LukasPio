@@ -32,10 +32,6 @@
 <img align="center" alt="Lucas-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">MongoDB</div> 
 <div> 
 <br>
-          <div style="display: flex"> 
-<img align="center" alt="Lucas-NODE.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js
-  </div>
-<br>
   <span align="center">Contate-me!</span>
   <ul>
     <li>WhatsApp: +55 (11) 94546-2692</li>
