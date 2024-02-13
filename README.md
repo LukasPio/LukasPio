@@ -32,11 +32,11 @@
 <img align="center" alt="Lucas-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">MongoDB</div> 
 <div> 
 <br>
-  <span align="center">Contate-me!</span>
+  <span align="center">Contact me!</span>
   <ul>
     <li>WhatsApp: +55 (11) 94546-2692</li>
     <li>Gmail: piolucas311@gmail.com</li>
-    <li>Usuário do Discord: cacatua_404</li>
+    <li>Discord user: cacatua_404</li>
   </ul>
 
 </div>
