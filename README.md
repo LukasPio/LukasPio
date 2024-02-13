@@ -1,4 +1,4 @@
-<h1>Opa, tudo certo? Meu nome é Lucas</h1>
+<h1>Hey, how's it going</h1>
 <a href="https://github.com/lukasPio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasPio&layout=compact&langs_count=4&theme=midnight-purple"/>
    
@@ -11,7 +11,7 @@
 
 
 <br>
-  <h4 align="left">/Minhas Stacks/</h4>
+  <h4 align="left">/My Stacks:/</h4>
   <br>
       <div style="display: flex"> 
   <img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
