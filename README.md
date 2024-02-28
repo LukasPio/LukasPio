@@ -26,10 +26,6 @@
 <div> 
 <br>
 <div style="display: flex"> 
-<img align="center" alt="Lucas-SPRING-BOOT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">Spring Boot</div> 
-<div>  
-<br>
-<div style="display: flex"> 
 <img align="center" alt="Lucas-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">PostgreSQL</div> 
 <br>
 <div style="display: flex"> 
