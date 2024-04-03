@@ -22,7 +22,7 @@
 <div> 
   <br>
     <div style="display: flex"> 
-<img align="center" alt="Lucas-CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">C#</div> 
+<img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">C</div> 
 <div> 
   <br>
   <div style="display: flex"> 
