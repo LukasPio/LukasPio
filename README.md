@@ -36,6 +36,10 @@
 <img align="center" alt="Lucas-SPRING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">Spring</div> 
 <div> 
 <br>
+<div style="display: flex"> 
+<img align="center" alt="Lucas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">JavaScript</div> 
+<div> 
+<br>
   <span align="center">Contact me!</span>
   <ul>
     <li>WhatsApp: +55 (11) 94546-2692</li>
