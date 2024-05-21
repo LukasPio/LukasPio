@@ -15,15 +15,7 @@
   <br>
       <div style="display: flex"> 
   <img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
-  </div>
-  <br>
-<div style="display: flex"> 
-<img align="center" alt="Lucas-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</div> 
-<div> 
-  <br>
-    <div style="display: flex"> 
-<img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">C</div> 
-<div> 
+  </div> 
   <br>
   <div style="display: flex"> 
 <img align="center" alt="Lucas-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">MySQL</div> 
