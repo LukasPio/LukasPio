@@ -1,6 +1,6 @@
 <h1>Hey, how's it going :)</h1>
 <a href="https://github.com/lukasPio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasPio&layout=compact&langs_count=4&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasPio&layout=compact&langs_count=8&theme=midnight-purple"/>
    
   </a>
 <div>
