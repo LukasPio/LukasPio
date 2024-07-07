@@ -35,7 +35,7 @@
   <span align="center">Contact me!</span>
   <ul>
     <li>WhatsApp: +55 (11) 94546-2692</li>
-    <li>Gmail: piolucas311@gmail.com</li>
+    <li>Gmail: contato.lukaspio@gmail.com</li>
     <li>Discord user: cacatua_404</li>
   </ul>
 
