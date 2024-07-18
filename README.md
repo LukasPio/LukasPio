@@ -1,7 +1,5 @@
 <h1>Hey, how's it going :)</h1>
-<a href="https://github.com/LukasPio">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LukasPio&layout=compact&langs_count=4&card_width=320" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <div>
   
 </div>
