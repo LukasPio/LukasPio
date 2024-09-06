@@ -17,7 +17,7 @@
   </div> 
   <br>
   <div style="display: flex"> 
-<img align="center" alt="Lucas-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">MySQL</div> 
+<img align="center" alt="Lucas-KOTLIN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">MySQL</div> 
 <div> 
 <br>
 <div style="display: flex"> 
