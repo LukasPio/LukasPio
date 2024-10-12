@@ -36,7 +36,7 @@
 
 **Developer tools**
 
-![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=2C2255)
 
 <br/>
