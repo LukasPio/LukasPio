@@ -1,4 +1,4 @@
-P![](https://komarev.com/ghpvc/?username=LukasPio&color=006bed)
+![](https://komarev.com/ghpvc/?username=LukasPio&color=006bed)
 
 ## Sobre mim
 
