@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=LukasPio&color=006bed)
 
-## Sobre mim
+## About me
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying Systems Analysis and Development at Etec Jorge Street.
