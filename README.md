@@ -33,12 +33,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=2C2255)
 
-<br/>
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukasPio&theme=dracula&show_icons=true" />
-</a>
-
 ## Where you can find me
 
 [![Linkedin](https://img.shields.io/badge/-Lucas_Pio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/lucas-pio-de-almeida-galv%C3%A3o-0822a631a/)
