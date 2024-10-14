@@ -1,4 +1,4 @@
-# Hey, how it's going?
+# Hey, how it's going? :)
 
 ## About me
 
