@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=LukasPio&color=006bed)
+# Hey, how it's going?
 
 ## About me
 
