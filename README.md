@@ -1,6 +1,4 @@
-# Hey, how it's going? :)
-
-## My skills
+# FullStack Developer
 
 **Programming languages**
 
