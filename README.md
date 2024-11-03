@@ -1,11 +1,5 @@
 # Hey, how it's going? :)
 
-## About me
-
-- 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Studying Systems Analysis and Development at Etec Jorge Street.
-- 🌱 Learning more about Java/Kotlin with Spring Boot.
-
 ## My skills
 
 **Programming languages**
@@ -39,15 +33,12 @@
 <br/>
 <img align="center" alt="Lucas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">GitHub</div> 
 
-**Text editors and IDEs**
+**Others**
 
-<img align="center" alt="Lucas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">Vs code</div> 
+<img align="center" alt="Lucas-TAILWINDCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">Tailwindcss</div> 
 <br/>
 <br/>
-<img align="center" alt="Lucas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">Intellij</div> 
-<br/>
-<br/>
-<img align="center" alt="Lucas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">Eclipse</div> 
+<img align="center" alt="Lucas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML 5</div> 
 
 ## Where you can find me
 
